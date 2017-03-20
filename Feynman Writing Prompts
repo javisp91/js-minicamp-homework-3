@@ -1,0 +1,6 @@
+Objects: collection of properties (key: 'values') within a variable.
+Properties: key: 'values'; it is what makes the object up.
+Methods: functions within an object.
+for in loop: loop that iterates through an object.
+dot notation vs bracket notation: dot notation is used for one-word properties, while brackets are used for the rest. Dot notation is
+specific and refers to the actual word/input, while bracket notation does not.
